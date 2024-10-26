@@ -34,17 +34,6 @@ For Hardware:
 - [List specifications]
 - [List tools required]
 
-### Implementation
-For Software:
-# Installation
-[commands]
-
-# Run
-[commands]
-
-### Project Documentation
-For Software:
-
 # Screenshots (Add at least 3)
 ![Screenshot 2024-10-26 074941](https://github.com/user-attachments/assets/5256746c-99b8-4e08-9afc-3e669e5ab9d7)
 Just the basic view when i open the site.
