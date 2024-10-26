@@ -1,33 +1,33 @@
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
-# [Project Name] 🎯
+# [Music Streaming and downloading WebPage] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [LM3]
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: [Amir Mohammed] - [TKMCE]
+- Member 2: Muhammed Sinan] - [TKMCE]
+- Member 3: [Jumail] - [TKMCE]
 
 ### Project Description
-[2-3 lines about what your project does]
+The site lets you surf music while listening to it,and can also be downloaded.But due to api issues,this is just a prototype.You can type in the music and for now it lets you listen 30 seconds of that audio.
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+It was always a problem for a free open-source music streaming and downloading app to be found completely ad-free.The access toke gets expired after 1 hour.
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+I have done it with what i can.
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
+- [HTML,CSS,JS]
 - [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- [SPOTIFY API,NODE.JS]
+- [VS CODE]
 
 For Hardware:
 - [List main components]
@@ -46,7 +46,8 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
+![Screenshot 2024-10-26 074414](https://github.com/user-attachments/assets/f0ca9daa-b81b-418e-b8a9-377a0195f862)
+(Add screenshot 1 here with proper name)
 *Add caption explaining what this shows*
 
 ![Screenshot2](Add screenshot 2 here with proper name)
